@@ -1,4 +1,4 @@
-# Mailchimp Clone in Go 🚀
+# SMTP Sercer in Go 🚀
 
 A high-performance bulk email dispatcher built with Go, featuring worker pools, HTML email templates, SMTP integration, concurrent email processing, and personalized email campaigns.
 
